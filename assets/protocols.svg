@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1094 82" width="1094" height="82" role="img" aria-label="Web3 and protocol tools">
+  <title>Web3 and protocol tools used across projects</title>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace; }
+  </style>
+  <g>
+    <rect x="0" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00FF9F" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="64.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Circom</text>
+  </g>
+  <g>
+    <rect x="138" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="202.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Solidity</text>
+  </g>
+  <g>
+    <rect x="276" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00FF9F" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="340.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Hardhat</text>
+  </g>
+  <g>
+    <rect x="414" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="478.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">GenLayer</text>
+  </g>
+  <g>
+    <rect x="552" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#E84142" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="616.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Avalanche</text>
+  </g>
+  <g>
+    <rect x="690" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#9945FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="754.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Solana</text>
+  </g>
+  <g>
+    <rect x="828" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#7D00FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="892.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Stellar</text>
+  </g>
+  <g>
+    <rect x="966" y="0" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="1030.0" y="22" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">0G</text>
+  </g>
+  <g>
+    <rect x="0" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00FF9F" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="64.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">XMTP</text>
+  </g>
+  <g>
+    <rect x="138" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="202.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Phaser</text>
+  </g>
+  <g>
+    <rect x="276" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00FF9F" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="340.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Privy</text>
+  </g>
+  <g>
+    <rect x="414" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="478.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Neon</text>
+  </g>
+  <g>
+    <rect x="552" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00FF9F" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="616.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Wagmi</text>
+  </g>
+  <g>
+    <rect x="690" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="754.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">Viem</text>
+  </g>
+  <g>
+    <rect x="828" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00FF9F" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="892.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">RainbowKit</text>
+  </g>
+  <g>
+    <rect x="966" y="46" width="128" height="34" rx="6" fill="#0A0A0C" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="1030.0" y="68" text-anchor="middle" fill="#E6EDF3" font-size="13" font-weight="600">ElevenLabs</text>
+  </g>
+</svg>
