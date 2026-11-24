@@ -31,7 +31,7 @@
 
 I am a 22-year-old Information Technology Administration student at **Tecnológico de Costa Rica** and the founder of **[ZEEK](https://www.zeek.es/)**, a Web3 builder community in Costa Rica. I work mainly on backend and product — TypeScript, Python, and zero-knowledge circuits — and I learn fastest by shipping with a team under hackathon pressure.
 
-Open to internships in IT, software, and data (including HP and Intel), and to Web3 community or builder roles.
+Open to internships in IT, software, and data, and to Web3 community or builder roles.
 
 <br/>
 
